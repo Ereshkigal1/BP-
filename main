@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct  1 22:15:54 2018
-@author: Heisenberg
-"""
+
 import numpy as np
 import math
 import random
